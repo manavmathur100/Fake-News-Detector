@@ -1,4 +1,4 @@
-![image](https://github.com/manavmathur100/Fake-News-Detector/assets/70790093/ba1bb104-cb4f-41c3-bd8c-1d53fcfc6a0f)# Fake-News-Detector
+# Fake-News-Detector
 
 ## Overview
 The topic of fake news detection on social media has recently attracted tremendous attention. The basic countermeasure of comparing websites against a list of labeled fake news sources is inflexible, and so a machine learning approach is desirable. Our project aims to use Natural Language Processing to detect fake news directly, based on the text content of news articles.
