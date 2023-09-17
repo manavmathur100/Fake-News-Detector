@@ -26,9 +26,11 @@ test.csv: A testing training dataset with all the same attributes at train.csv w
 ## Confusion Matrices
 
 Naive Bayes
+
 ![image](https://github.com/manavmathur100/Fake-News-Detector/assets/70790093/3750e7bd-793e-4cce-b0eb-f932a4ecfdab)
 
 SVM
+
 ![image](https://github.com/manavmathur100/Fake-News-Detector/assets/70790093/52315e7e-2b52-4983-af8e-d7bf54a7ca7a)
 
 
